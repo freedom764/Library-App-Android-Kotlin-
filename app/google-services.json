@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56406961423",
+    "firebase_url": "https://finallibraryproject-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "finallibraryproject",
+    "storage_bucket": "finallibraryproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56406961423:android:c2295bc8f576c905d4227a",
+        "android_client_info": {
+          "package_name": "edu.skku.cs.final_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56406961423-v46al7jka0s79r0bjno0mb2v8h4t3ar1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.skku.cs.final_library",
+            "certificate_hash": "aa78c02c2f44724d9eafd9c785009bdb2f6232d4"
+          }
+        },
+        {
+          "client_id": "56406961423-fgkqiu2h93n3uov21pdqtt8c9so00op3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2fxFQLRwAuZnAyQnAxDh1X3UfTU6HemI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56406961423-fgkqiu2h93n3uov21pdqtt8c9so00op3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
